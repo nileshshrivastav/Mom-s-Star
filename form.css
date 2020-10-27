@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    border-radius: 10px;
+}
+.form-block {
+    border-style: solid;
+    border: 2px solid rgb(18, 17, 24);
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.thick-black-border{
+    border-color: black;
+    border-width: 20px;
+    border-style: solid;
+}
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: goldenrod;
+    font-size: 45px;
+}
+.element-block {
+    display: flex;
+    flex-direction: column;
+    line-height: 1px;
+}
+h3 {
+   font-size: 30px;
+   line-height: 0.10cm;
+}
+button{
+    font-size: 20px;
+    background-color: cornflowerblue;
+    line-height: 0.5cm;
+    margin-top: 0.5cm;
+}
+

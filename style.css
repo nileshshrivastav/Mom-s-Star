@@ -43,3 +43,39 @@ a {
     font-size: 25px;
     color: rgb(69, 31, 175);
 }
+@media screen and (max-width: 992px){
+    .text {
+      position: absolute;
+      left: 10%; 
+    
+    }
+    .dance{
+        position: absolute;
+        bottom: 81%;
+        left:45%;
+    }
+    .center{
+        position: absolute;
+        bottom: 62%;
+        left: 25%;
+    }
+    .send{
+        position:absolute;
+        bottom: 55%;
+        left:25%;
+    }
+    .upload{
+        position: absolute;
+        bottom: 53%;
+        left:23%;
+    }
+    .stay{
+        position: absolute;
+        left: 13%;
+        bottom: 58%;
+    }
+    .ref{
+        position: absolute;
+        bottom: 50%;
+    }
+}
